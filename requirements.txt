@@ -1,6 +1,3 @@
 # This project is a static HTML project.
 # No external Python dependencies required.
 flask
-requests
-numpy
-pandas
